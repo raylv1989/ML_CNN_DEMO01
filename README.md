@@ -6,13 +6,13 @@ https://www.python.org/downloads/release/python-353/
 
 ## Required packages
 - scikit learn: 
-`pip install sklearn`
+**`pip install sklearn`**
 
 - numpy, scipy:
 http://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 - tensor flow:
-`pip install tensorflow`
+**`pip install tensorflow`**
 
 - tflearn:
-`pip install tflearn`
+**`pip install tflearn`**
