@@ -10,9 +10,6 @@ from tflearn.data_augmentation import ImageAugmentation
 import scipy
 import numpy as np
 
-from MyML_test11_get_ckpt_files import get_ckpt_file_seir, get_birds_files
-import argparse
-
 # parser = argparse.ArgumentParser(description='Decide if an image is a picture of a bird')
 # parser.add_argument('image', type=str, help='The image image file to check')
 # args = parser.parse_args()
